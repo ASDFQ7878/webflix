@@ -31,6 +31,9 @@
        <li class="nav-item">
         <a class="nav-link" href="#contactid"><i class="fas fa-sign-out-alt"></i></a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contac"><i class="fas fa-sign-out-alt"></i></a>
+      </li>
     </ul>
   </div>
  </div>
