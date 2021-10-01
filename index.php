@@ -1,8 +1,8 @@
-<?php  
 
-include("header.php");
 
-?>
+
+
+
 
 <!DOCTYPE html>
 <html>
@@ -79,6 +79,10 @@ include("header.php");
 </div>
 	<div class="col-md-3" >
 	<img src="images/KFG.jfif" style="width: 200px; height: 150px;">
+		
+</div>
+	<div class="col-md-3" >
+	<img src="images/b1.jfif" style="width: 200px; height: 150px;">
 </div>
 </div>
 
