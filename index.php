@@ -73,7 +73,13 @@ include("header.php");
 <div class="col-md-3" >
 	<img src="images/KGF.jfif" style="width: 200px; height: 150px;">
 </div>
-
+ 
+	<div class="col-md-3" >
+	<img src="images/KGF.jfif" style="width: 200px; height: 150px;">
+</div>
+	<div class="col-md-3" >
+	<img src="images/KFG.jfif" style="width: 200px; height: 150px;">
+</div>
 </div>
 
 
