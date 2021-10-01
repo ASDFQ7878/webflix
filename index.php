@@ -82,7 +82,7 @@
 		
 </div>
 	<div class="col-md-3" >
-	<img src="images/b1.jfif" style="width: 200px; height: 150px;">
+	<img src="images/b1.jfif" style="width: 200px; height: 160px;">
 </div>
 </div>
 
